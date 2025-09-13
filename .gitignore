@@ -1,0 +1,81 @@
+# =============================================================================
+# GitHub Profile Repository - Clean & Optimized
+# =============================================================================
+
+# === Unnecessary Files ===
+# Old/backup files
+*_old.*
+*_backup.*
+*.bak
+*.tmp
+
+# === Documentation Files (Keep only essential) ===
+# Remove setup files after initial setup
+METRICS_SETUP.md
+DAILY_METRICS_SETUP.md
+TROUBLESHOOTING.md
+SETUP_LIKE_VIRAJ.md
+
+# === HTML/Demo Files ===
+# Keep only if needed for GitHub Pages
+matrix-business-card.html
+*.html
+
+# === System Files ===
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# === IDE/Editor Files ===
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# === Logs ===
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Dependencies ===
+node_modules/
+*.lock
+
+# === Build/Cache ===
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# === Environment ===
+.env
+.env.local
+.env.*.local
+
+# === Keep These Essential Files ===
+# !README.md
+# !.github/
+# !github-metrics.svg
