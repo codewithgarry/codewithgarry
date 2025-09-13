@@ -26,11 +26,20 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
           
-          # === LIFETIME CONTRIBUTIONS ===
+          # === 3D ISOMETRIC CALENDAR (Like your image) ===
           
-          # 📅 LIFETIME Calendar (All Years) - Shows complete contribution history
+          # 📅 3D ISOMETRIC Calendar - Beautiful 3D cube visualization
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_format: default
+          
+          # 🔥 COMMITS STREAKS (Like your image)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
           
           # 🈷️ All-time languages analysis
           plugin_languages: yes
@@ -48,18 +57,18 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           
-          # 📊 Recent activity (365 days)
+          # 📊 COMMIT STATISTICS (Like your image - "Commits per day", "Best streak")
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 365
           plugin_activity_filter: all
           plugin_activity_visibility: all
           
+          # 📈 COMMIT STREAKS & STATS
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          
           # 🏆 Notable contributions
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_repositories: yes
-          
-          # 📈 Commit calendar (shows lifetime pattern)
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
