@@ -26,22 +26,9 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
           
-          # === 3D ISOMETRIC CALENDAR (Like your image) ===
+          # === GITHUB METRICS WITHOUT CALENDAR ===
           
-          # 📅 3D ISOMETRIC Calendar - Beautiful 3D cube visualization
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_format: default
-          
-          # 🔥 COMMITS STREAKS (Like your image)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          
-          # 🈷️ All-time languages analysis
+          # 🈷️ Languages analysis (no calendar)
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 10
@@ -57,16 +44,12 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           
-          # 📊 COMMIT STATISTICS (Like your image - "Commits per day", "Best streak")
+          # 📊 COMMIT STATISTICS (Clean metrics without calendar)
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 365
           plugin_activity_filter: all
           plugin_activity_visibility: all
-          
-          # 📈 COMMIT STREAKS & STATS
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
           
           # 🏆 Notable contributions
           plugin_notable: yes
