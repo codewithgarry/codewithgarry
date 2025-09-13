@@ -35,11 +35,11 @@
 - **Specialization:** Multi-cloud Architecture & Automation
 
 ### 🎯 Current Focus
-- 🔧 Building scalable cloud infrastructure
-- 🤖 Automating deployment pipelines  
-- 📈 Optimizing system performance
-- 🛡️ Implementing security best practices
-- 🌐 Contributing to open-source projects
+🔧 Building scalable cloud infrastructure
+🤖 Automating deployment pipelines  
+📈 Optimizing system performance
+🛡️ Implementing security best practices
+🌐 Contributing to open-source projects
 
 ### 💼 Core Technologies
 ```json
@@ -62,22 +62,22 @@
 ### 📊 Quick Stats
 
 **⚡ Current Status**
-- 💼 Open to opportunities
-- 🌱 Learning Service Mesh
-- 🔍 Exploring AI/ML in DevOps
-- 📝 Writing technical content
+💼 Open to opportunities
+🌱 Learning Service Mesh
+🔍 Exploring AI/ML in DevOps
+📝 Writing technical content
 
 **🎯 2025 Goals**
-- 🏆 Service Mesh mastery
-- 📚 Technical book publication
-- 🎤 Conference speaking
-- 🌟 CNCF contributions
+🏆 Service Mesh mastery
+📚 Technical book publication
+🎤 Conference speaking
+🌟 CNCF contributions
 
 **📈 Activity**
-- ☕ Coffee consumed: ∞
-- ⚙️ K8s clusters: 100+
-- ☁️ Cloud migrations: 50+
-- 💾 GitHub commits: 2000+
+☕ Coffee consumed: ∞
+⚙️ K8s clusters: 100+
+☁️ Cloud migrations: 50+
+💾 GitHub commits: 2000+
 
 </div>
 
@@ -205,9 +205,6 @@ Security & Compliance ███████████████░░░░�
 
 <!-- LANGUAGE DISTRIBUTION -->
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgarry&layout=donut&theme=tokyonight&border_radius=15&border_color=9400D3&langs_count=8&bg_color=0d1117&title_color=9400D3&text_color=ffffff&hide_border=false"/>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithgarry&theme=tokyo-night&bg_color=0d1117&color=00ff41&line=ff6b35&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=codewithgarry&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" width="100%"/>
