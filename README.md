@@ -90,121 +90,6 @@
 
 ---
 
-## 🛠️ Technology Ecosystem
-
-<div align="center">
-
-<!-- INTERACTIVE TECH CARDS -->
-<table>
-<tr>
-<td>
-
-### 🌐 Cloud & Infrastructure Mastery
-```yaml
-☁️ Cloud Platforms:
-  primary: ["AWS", "Google Cloud", "Microsoft Azure"]
-  expertise_level: "Solutions Architect"
-  
-🔧 Container Tech:
-  orchestration: "Kubernetes (CKA Certified)"
-  runtime: ["Docker", "Podman", "containerd"]
-  
-🏗️ Infrastructure as Code:
-  tools: ["Terraform", "Ansible", "CloudFormation"]
-  approach: "GitOps & Declarative"
-```
-
-</td>
-<td>
-
-### � DevOps & Automation Arsenal
-```yaml
-🔄 CI/CD Pipelines:
-  platforms: ["Jenkins", "GitLab CI", "GitHub Actions"]
-  strategy: "Blue-Green & Canary Deployments"
-  
-📊 Monitoring Stack:
-  metrics: "Prometheus + Grafana"
-  logging: "ELK Stack (Elasticsearch, Logstash, Kibana)"
-  alerting: "PagerDuty + Slack Integration"
-  
-🛡️ Security & Compliance:
-  tools: ["HashiCorp Vault", "AWS IAM", "RBAC"]
-  practices: "Zero Trust Architecture"
-```
-
-</td>
-</tr>
-</table>
-
-<!-- ANIMATED SKILL ICONS -->
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,python,go&perline=6&theme=dark" />
-</div>
-
-<!-- INTERACTIVE EXPERTISE CARDS -->
-<table>
-<tr>
-<td align="center" width="33%">
-
-<div align="center">
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-**☁️ Cloud Architecture**
-<br>
-<img src="https://img.shields.io/badge/Level-Expert-00ff41?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br>
-<sub>🏆 Solutions Architect Professional</sub>
-<br>
-<sub>⚡ 5+ Years Multi-Cloud Experience</sub>
-<br>
-<sub>🎯 99.99% Uptime Achieved</sub>
-
-</div>
-
-</td>
-<td align="center" width="33%">
-
-<div align="center">
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-
-**🔧 DevOps Engineering**
-<br>
-<img src="https://img.shields.io/badge/Level-Advanced-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br>
-<sub>🏆 CKA Certified Administrator</sub>
-<br>
-<sub>⚡ 100+ K8s Clusters Managed</sub>
-<br>
-<sub>🎯 Zero Downtime Deployments</sub>
-
-</div>
-
-</td>
-<td align="center" width="33%">
-
-<div align="center">
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-**💻 Development & Automation**
-<br>
-<img src="https://img.shields.io/badge/Level-Proficient-0078d4?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br>
-<sub>🏆 Python + Go + Bash Expert</sub>
-<br>
-<sub>⚡ 50+ Automation Scripts</sub>
-<br>
-<sub>🎯 2000+ GitHub Contributions</sub>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🏆 Certifications & Professional Achievements
 
@@ -383,6 +268,122 @@
 - 🌐 [Personal Portfolio](https://codewithgarry.com)
 - 📝 [Technical Blog](https://onlineintercollege.com)
 - 🎯 [View my portfolio](https://profile.codewithgarry.com)
+
+</div>
+
+---
+
+## 🛠️ Technology Ecosystem
+
+<div align="center">
+
+<!-- INTERACTIVE TECH CARDS -->
+<table>
+<tr>
+<td>
+
+### 🌐 Cloud & Infrastructure Mastery
+```yaml
+☁️ Cloud Platforms:
+  primary: ["AWS", "Google Cloud", "Microsoft Azure"]
+  expertise_level: "Solutions Architect"
+  
+🔧 Container Tech:
+  orchestration: "Kubernetes (CKA Certified)"
+  runtime: ["Docker", "Podman", "containerd"]
+  
+🏗️ Infrastructure as Code:
+  tools: ["Terraform", "Ansible", "CloudFormation"]
+  approach: "GitOps & Declarative"
+```
+
+</td>
+<td>
+
+### � DevOps & Automation Arsenal
+```yaml
+🔄 CI/CD Pipelines:
+  platforms: ["Jenkins", "GitLab CI", "GitHub Actions"]
+  strategy: "Blue-Green & Canary Deployments"
+  
+📊 Monitoring Stack:
+  metrics: "Prometheus + Grafana"
+  logging: "ELK Stack (Elasticsearch, Logstash, Kibana)"
+  alerting: "PagerDuty + Slack Integration"
+  
+🛡️ Security & Compliance:
+  tools: ["HashiCorp Vault", "AWS IAM", "RBAC"]
+  practices: "Zero Trust Architecture"
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED SKILL ICONS -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,python,go&perline=6&theme=dark" />
+</div>
+
+<!-- INTERACTIVE EXPERTISE CARDS -->
+<table>
+<tr>
+<td align="center" width="33%">
+
+<div align="center">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+**☁️ Cloud Architecture**
+<br>
+<img src="https://img.shields.io/badge/Level-Expert-00ff41?style=for-the-badge&logoColor=white&labelColor=000000" />
+<br>
+<sub>🏆 Solutions Architect Professional</sub>
+<br>
+<sub>⚡ 5+ Years Multi-Cloud Experience</sub>
+<br>
+<sub>🎯 99.99% Uptime Achieved</sub>
+
+</div>
+
+</td>
+<td align="center" width="33%">
+
+<div align="center">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+
+**🔧 DevOps Engineering**
+<br>
+<img src="https://img.shields.io/badge/Level-Advanced-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000" />
+<br>
+<sub>🏆 CKA Certified Administrator</sub>
+<br>
+<sub>⚡ 100+ K8s Clusters Managed</sub>
+<br>
+<sub>🎯 Zero Downtime Deployments</sub>
+
+</div>
+
+</td>
+<td align="center" width="33%">
+
+<div align="center">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+**💻 Development & Automation**
+<br>
+<img src="https://img.shields.io/badge/Level-Proficient-0078d4?style=for-the-badge&logoColor=white&labelColor=000000" />
+<br>
+<sub>🏆 Python + Go + Bash Expert</sub>
+<br>
+<sub>⚡ 50+ Automation Scripts</sub>
+<br>
+<sub>🎯 2000+ GitHub Contributions</sub>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
