@@ -1,10 +1,13 @@
 name: Girish Sharma GitHub Metrics
 on:
-  # Schedule auto-updates 1 time daily to keep date and profile current
+  # Schedule auto-updates 4 times daily to keep date current
   schedule:
     - cron: "30 18 * * *" # 12:00 AM IST (Night - Date change)
   # Manual trigger
   workflow_dispatch:
+  # Auto-trigger on any push to main (immediate updates)
+  push:
+    branches: ["main"]
 
 jobs:
   girish-github-metrics:
@@ -26,8 +29,8 @@ jobs:
           # === GIRISH SHARMA'S STUNNING 3D VISUAL GITHUB METRICS ===
           
           # 📅 3D Isometric contributions calendar - Beautiful 3D cubes
-          # plugin_isocalendar: yes
-          # plugin_isocalendar_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           #  Languages with stunning 3D charts and detailed visuals
           plugin_languages: yes
@@ -60,9 +63,10 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
           
-          # 📅 Live Calendar - Always shows today's date (updates 4x daily)
+          # � Live Calendar - Always shows today's date (updates 4x daily)
           plugin_calendar: yes
           plugin_calendar_limit: 1
+          
           # 🎯 Traffic and engagement metrics
           plugin_traffic: yes
           

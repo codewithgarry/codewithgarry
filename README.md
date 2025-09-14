@@ -60,7 +60,7 @@ npx codewithgarry
   "infrastructure": ["Terraform", "Ansible", "CloudFormation"],
   "ci_cd": ["AZURE ADO", "Jenkins", "GitLab CI", "GitHub Actions"],
   "monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-  "Cloud Monitoring": ["Cloud Watch", "Log Analytics Workspaces"]
+  "cloud_monitoring": ["Cloud Watch", "Log Analytics Workspaces"]
   "programming": ["Python", "C++", "Bash", "KQL", "PromQL", "SQL"]
 }
 ```
