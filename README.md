@@ -12,7 +12,7 @@
 </p> -->
 
 <!-- DYNAMIC INTRODUCTION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=e30935&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Transforming+infrastructure+through+code;Building+scalable+cloud+solutions;5%2B+years+of+DevOps+excellence" alt="Dynamic Introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=e30935&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Transforming+infrastructure+through+code;Building+scalable+cloud+solutions;3+%2B+years+of+DevOps+excellence" alt="Dynamic Introduction" />
 
 
 ### 🃏 Interactive Business Card
@@ -37,10 +37,10 @@ npx codewithgarry
 
 ### 🚀 Professional Profile
 - **Name:** Girish Sharma
-- **Role:** Senior Cloud Engineer
+- **Role:** Cloud DevOps Engineer
 - **Company:** Rackspace Technology  
 - **Location:** Gurgaon, India 🇮🇳
-- **Experience:** 5+ Years in Cloud & DevOps
+- **Experience:** 3+ Years in Cloud & DevOps
 - **Specialization:** Multi-cloud Architecture & Automation
 
 ### 🎯 Current Focus
@@ -55,12 +55,12 @@ npx codewithgarry
 ### 💻 Core Technologies
 ```json
 {
-  "cloud_platforms": ["AWS", "GCP", "Azure"],
+  "cloud_platforms": ["GCP", "Azure", "AWS"],
   "containers": ["Kubernetes", "Docker", "Podman"],
   "infrastructure": ["Terraform", "Ansible", "CloudFormation"],
-  "ci_cd": ["Jenkins", "GitLab CI", "GitHub Actions"],
-  "monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-  "programming": ["Python", "Go", "Bash", "JavaScript"]
+  "ci_cd": ["AZURE ADO", "Jenkins", "GitLab CI", "GitHub Actions"],
+  "monitoring": ["Cloud Watch", "Log Analytics Workspaces", "Prometheus", "Grafana", "ELK Stack"],
+  "programming": ["Python", "C++", "Bash", "KQL", "PromQL", "SQL"]
 }
 ```
 
