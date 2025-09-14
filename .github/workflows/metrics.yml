@@ -21,8 +21,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: codewithgarry
           template: classic
-          base: header, activity, community, repositories, metadata
-          filename: github-metrics.svg
+          base: header, community, repositories, metadata
+          filename: codewithgarry-metrics.svg
           config_timezone: Asia/Kolkata
           config_output: svg
           
