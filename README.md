@@ -59,13 +59,14 @@ npx codewithgarry
   "containers": ["Kubernetes", "Docker", "Podman"],
   "infrastructure": ["Terraform", "Ansible", "CloudFormation"],
   "ci_cd": ["AZURE ADO", "Jenkins", "GitLab CI", "GitHub Actions"],
-  "monitoring": ["Cloud Watch", "Log Analytics Workspaces", "Prometheus", "Grafana", "ELK Stack"],
+  "monitoring": ["Prometheus", "Grafana", "ELK Stack"],
+  "Cloud Monitoring": ["Cloud Watch", "Log Analytics Workspaces"]
   "programming": ["Python", "C++", "Bash", "KQL", "PromQL", "SQL"]
 }
 ```
 
 </td>
-<td width="40%">
+<td width="60%">
 
 <div align="center">
 
