@@ -29,8 +29,8 @@ jobs:
           # === GIRISH SHARMA'S STUNNING 3D VISUAL GITHUB METRICS ===
           
           # 📅 3D Isometric contributions calendar - Beautiful 3D cubes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
           
           #  Languages with stunning 3D charts and detailed visuals
           plugin_languages: yes

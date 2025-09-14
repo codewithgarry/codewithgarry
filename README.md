@@ -100,11 +100,6 @@ npx codewithgarry
 </tr>
 </table>
 
----
-
-
-
-<img src="codewithgarry-metrics.svg" alt="GitHub Metrics for codewithgarry" width="100%"/>
 
 
 
@@ -117,13 +112,15 @@ npx codewithgarry
 <!-- CERTIFICATION SHOWCASE CARDS -->
 <table>
 <tr>
+
+
 <td colspan="4" align="center">
 <h3>🎓 Industry-Recognized Certifications</h3>
 <a href="https://www.credly.com/users/codewithgarry" target="_blank">
-<img src="https://img.shields.io/badge/Total_Certifications-10-gold?style=for-the-badge&logo=award&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Total_Certifications-15+-gold?style=for-the-badge&logo=award&logoColor=white&labelColor=000000"/>
 </a>
 <a href="https://www.linkedin.com/in/codewithgarry/details/certifications/" target="_blank">
-<img src="https://img.shields.io/badge/Active_Since-2020-blue?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Active_Since-2019-blue?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000"/>
 </a>
 </td>
 </tr>
@@ -132,146 +129,7 @@ npx codewithgarry
 <!-- INTERACTIVE CERTIFICATION CARDS -->
 <table>
 <tr>
-<td align="center" width="25%">
 
-<div align="center">
-<a href="https://www.credly.com/badges/0b13730b-1177-4b0c-938f-e400038cb7e7" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-</a>
-<br>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 AWS Certified Cloud Practitioner</b></sub>
-<br>
-<sub>📅 Valid: 2024-2027</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://learn.microsoft.com/en-us/users/codewithgarry/credentials/8CDC54EEA383E01" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/63316b7e-f36d-4e25-bd0b-4c3c1e36e1de/image.png"/>
-</a>
-<br>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank">
-<img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
-<br>
-<sub><b>� Microsoft Azure Fundamentals</b></sub>
-<br>
-<sub>📅 Valid: Lifetime</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://learn.microsoft.com/en-us/users/codewithgarry/credentials/4de5f320db9961cd" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
-</a>
-<br>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/" target="_blank">
-<img src="https://img.shields.io/badge/Azure-Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 Microsoft Azure Data Fundamentals</b></sub>
-<br>
-<sub>📅 Valid: Lifetime</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://www.credly.com/earner/earned/badge/c6f6f012-3dc9-4e28-b40f-dc6acbab276d" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"/>
-</a>
-<br>
-<a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
-<img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-</a>
-<br>
-<sub><b>� HashiCorp Terraform Associate</b></sub>
-<br>
-<sub>📅 Valid: 2024-2026</sub>
-</div>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://www.credly.com/badges/021ada56-0602-4cb5-892c-0bf3880b62be" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/>
-</a>
-<br>
-<a href="https://www.docker.com/certification" target="_blank">
-<img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 Docker Certified Associate</b></sub>
-<br>
-<sub>📅 Valid: 2024-2026</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://www.credly.com/badges/27d0c600-1240-41e5-b7b5-87dcd77b70ab" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/image.png"/>
-</a>
-<br>
-<a href="https://www.redhat.com/en/services/certification" target="_blank">
-<img src="https://img.shields.io/badge/RedHat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 Red Hat Certified</b></sub>
-<br>
-<sub>📅 Valid: 2024-2027</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://www.credly.com/badges/7dbe1a32-6744-43d1-8c70-6afa173013b9" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"/>
-</a>
-<br>
-<a href="https://www.hashicorp.com/certification" target="_blank">
-<img src="https://img.shields.io/badge/HashiCorp-Infrastructure-623CE4?style=for-the-badge&logo=hashicorp&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 HashiCorp Infrastructure Automation</b></sub>
-<br>
-<sub>📅 Valid: 2024-2026</sub>
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div align="center">
-<a href="https://www.credly.com/badges/f0dd335e-808b-472a-ac6f-115ff15979f2" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"/>
-</a>
-<br>
-<a href="https://aws.amazon.com/certification/certified-sysops-admin-associate/" target="_blank">
-<img src="https://img.shields.io/badge/AWS-SysOps_Admin-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-<br>
-<sub><b>🏅 AWS Certified SysOps Admin Associate</b></sub>
-<br>
-<sub>📅 Valid: 2024-2027</sub>
-</div>
-
-</td>
-</tr>
-<tr>
 <td align="center" width="25%">
 
 <div align="center">
@@ -289,18 +147,109 @@ npx codewithgarry
 </div>
 
 </td>
+
 <td align="center" width="25%">
 
 <div align="center">
-<a href="https://www.credly.com/badges/09b7f6f3-5f47-44f1-b06a-c9fd454e743b" target="_blank">
-<img height="100" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"/>
+<a href="https://www.credly.com/badges/3444a631-19e1-4358-b5a3-6d5e18d98360" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob"/>
 </a>
 <br>
-<a href="https://www.vmware.com/education-services/certification" target="_blank">
-<img src="https://img.shields.io/badge/VMware-Certified-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<a href="https://training.linuxfoundation.org/certification/kubernetes-fundamentals-lfs258/" target="_blank">
+<img src="https://img.shields.io/badge/LFS258-Kubernetes%20Fundamentals-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 <br>
-<sub><b>🏅 VMware Certified Professional</b></sub>
+<sub><b>🏅 LFS258: Kubernetes Fundamentals</b></sub>
+<br>
+<sub>📅 Valid: Lifetime</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/badges/0b13730b-1177-4b0c-938f-e400038cb7e7" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob"/>
+</a>
+<br>
+<a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
+<img src="https://img.shields.io/badge/Terraform-Associate_003-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 HashiCorp Certified: Terraform Associate (003)</b></sub>
+<br>
+<sub>📅 Issued: 2025 to 2027</sub>
+</div>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/badges/021ada56-0602-4cb5-892c-0bf3880b62be" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/4c73185c-8ffd-4616-8efd-a969a1c330cc/blob"/>
+</a>
+<br>
+<a href="https://www.rackspace.com/" target="_blank">
+<img src="https://img.shields.io/badge/Rackspace-Hybrid_Cloud_Expert-ED1C24?style=for-the-badge&logo=rackspace&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Rackspace Technology: Hybrid Cloud Expert</b></sub>
+<br>
+<sub>📅 Valid: Lifetime</sub>
+</div>
+
+</td>
+
+</tr>
+<tr>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://learn.microsoft.com/en-us/users/codewithgarry/credentials/4de5f320db9961cd" target="_blank">
+<img height="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg"/>
+</a>
+<br>
+<a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Microsoft Certified: Solutions Architect Expert</b></sub>
+<br>
+<sub>📅 Valid: 2024 to 2026</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://learn.microsoft.com/en-us/users/codewithgarry/credentials/8cdc54eea383e01" target="_blank">
+<img height="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg"/>
+</a>
+<br>
+<a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Microsoft Certified: DevOps Engineer Expert</b></sub>
+<br>
+<sub>📅 Valid: 2024 to 2026</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/codewithgarry/B24EB3EBC1887D6C?sharingId=3E645FC2141C6444" target="_blank">
+<img height="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+</a>
+<br>
+<a href="https://learn.microsoft.com/en-us/certifications/azure-network-engineer/" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Network%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Microsoft Certified: Network Engineer Associate</b></sub>
 <br>
 <sub>📅 Valid: 2024-2026</sub>
 </div>
@@ -308,25 +257,103 @@ npx codewithgarry
 </td>
 <td align="center" width="25%">
 
-</td>
-<td align="center" width="25%">
+<div align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/codewithgarry/993AABBD14C9BC42?sharingId=3E645FC2141C6444" target="_blank">
+<img height="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+</a>
+<br>
+<a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Microsoft Certified: Security Engineer Associate</b></sub>
+<br>
+<sub>📅 Valid: 2023-2026</sub>
+</div>
 
 </td>
 </tr>
-<a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
-<img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<tr>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/badges/f0dd335e-808b-472a-ac6f-115ff15979f2" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"/>
 </a>
 <br>
-<sub><b>🏅 HashiCorp Terraform Associate</b></sub>
+<a href="https://aws.amazon.com/certification/certified-sysops-admin-associate/" target="_blank">
+<img src="https://img.shields.io/badge/AWS-SysOps_Admin-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 <br>
-<sub>📅 Valid: 2024-2026</sub>
+<sub><b>🏅 AWS Certified SysOps Admin Associate</b></sub>
 <br>
-<sub>🎯 Score: 88%</sub>
+<sub>📅 Valid: 2025-2028</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/org/google-cloud/badge/professional-cloud-architect-certification" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png"/>
+</a>
+<a href="https://cloud.google.com/certification/cloud-architect" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Professional Cloud Architect Certification</b></sub>
+<br>
+<sub>📅 Valid: 2025-2027</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/earner/earned/badge/09b7f6f3-5f47-44f1-b06a-c9fd454e743b" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"/>
+</a>
+<a href="https://cloud.google.com/certification/cloud-engineer" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-34A853?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Associate Cloud Engineer Certification</b></sub>
+<br>
+<sub>📅 Valid: 2023-2026</sub>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div align="center">
+<a href="https://www.credly.com/earner/earned/badge/9c6f1d36-5cc9-4073-a3e2-2948ff5ec6a2" target="_blank">
+<img height="100" src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"/>
+</a>
+<a href="https://cloud.google.com/certification/cloud-digital-leader" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+<br>
+<sub><b>🏅 Cloud Digital Leader Certification</b></sub>
+<br>
+<sub>📅 Valid: 2024-2027</sub>
+</div>
+
+</td>
+
+</tr>
+
 </div>
 
 </td>
 </tr>
 </table>
+
+---
+
+
+
+<img src="codewithgarry-metrics.svg" alt="GitHub Metrics for codewithgarry" width="100%"/>
+
 
 ---
 
