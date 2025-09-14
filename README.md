@@ -40,7 +40,6 @@ npx codewithgarry
 - **Role:** Cloud DevOps Engineer
 - **Company:** Rackspace Technology  
 - **Location:** Gurgaon, India 🇮🇳
-- **Experience:** 3+ Years in Cloud & DevOps
 - **Specialization:** Multi-cloud Architecture & Automation
 
 ### 🎯 Current Focus
