@@ -19,10 +19,10 @@
 Want to connect me? Try this cool command:
 
 ```bash
-💻 npx codewithgarry
+npx codewithgarry
 ```
 
-✨ **Experience my digital business card directly in your terminal!** Get instant access to my contact info, skills, and social links with a single command. No installation required - just run and connect!
+✨ **Experience my digital business card directly in your terminal!** Get instant access to my contact info, skills, and social links with a single command. No installation required - just run and connect! 💻 
 
 
 </div>
@@ -321,55 +321,6 @@ Want to connect me? Try this cool command:
 </tr>
 </table>
 
-<!-- CERTIFICATION PROGRESS TRACKER -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎯 2025 Certification Goals
-```yaml
-📋 In Progress:
-  - name: "AWS Solutions Architect Professional"
-    progress: "65%"
-    exam_date: "December 2025"
-    
-  - name: "Google Cloud Professional Architect"  
-    progress: "45%"
-    exam_date: "Q1 2026"
-    
-🎓 Planned:
-  - "Certified Kubernetes Security (CKS)"
-  - "GitHub Actions"
-  - "Certified Kuberneted Application Developer (CKAD)"
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🏅 Achievement Stats
-```yaml
-🎖️ Certification Metrics:
-  total_earned: 8
-  success_rate: "94%"
-  average_score: "88.5%"
-  
-📈 Career Impact:
-  salary_increase: "+35%"
-  job_opportunities: "+150%"
-  industry_recognition: "Top 5% DevOps Engineers"
-  
-🌟 Community:
-  blog_posts: 15
-  conference_talks: 3
-  mentorship: "20+ Junior Engineers"
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 
@@ -396,57 +347,6 @@ Want to connect me? Try this cool command:
 - 🌐 [Personal Portfolio](https://codewithgarry.com)
 - 📝 [Technical Blog](https://onlineintercollege.com)
 - 🎯 [View my portfolio](https://profile.codewithgarry.com)
-
-</div>
-
----
-
-## 🛠️ Technology Ecosystem
-
-<div align="center">
-
-<!-- INTERACTIVE TECH CARDS -->
-<table>
-<tr>
-<td>
-
-### 🌐 Cloud & Infrastructure Mastery
-```yaml
-☁️ Cloud Platforms:
-  primary: ["AWS", "Google Cloud", "Microsoft Azure"]
-  expertise_level: "Solutions Architect"
-  
-🔧 Container Tech:
-  orchestration: "Kubernetes (CKA Certified)"
-  runtime: ["Docker", "Podman", "containerd"]
-  
-🏗️ Infrastructure as Code:
-  tools: ["Terraform", "Ansible", "CloudFormation"]
-  approach: "GitOps & Declarative"
-```
-
-</td>
-<td>
-
-### � DevOps & Automation Arsenal
-```yaml
-🔄 CI/CD Pipelines:
-  platforms: ["Jenkins", "GitLab CI", "GitHub Actions"]
-  strategy: "Blue-Green & Canary Deployments"
-  
-📊 Monitoring Stack:
-  metrics: "Prometheus + Grafana"
-  logging: "ELK Stack (Elasticsearch, Logstash, Kibana)"
-  alerting: "PagerDuty + Slack Integration"
-  
-🛡️ Security & Compliance:
-  tools: ["HashiCorp Vault", "AWS IAM", "RBAC"]
-  practices: "Zero Trust Architecture"
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
