@@ -102,11 +102,11 @@ npx codewithgarry
 
 ---
 
-<div align="center">
+
 
 <img src="codewithgarry-metrics.svg" alt="GitHub Metrics for codewithgarry" width="100%"/>
 
-</div>
+
 
 ---
 
