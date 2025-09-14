@@ -12,7 +12,7 @@
 </p> -->
 
 <!-- DYNAMIC INTRODUCTION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=e30935&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Transforming+infrastructure+through+code;Building+scalable+cloud+solutions;3+%2B+years+of+DevOps+excellence" alt="Dynamic Introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=e30935&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Transforming+infrastructure+through+code;Building+scalable+cloud+solutions;Experienced%2B+Cloud+DevOps+Expert" alt="Dynamic Introduction" />
 
 
 ### 🃏 Interactive Business Card
