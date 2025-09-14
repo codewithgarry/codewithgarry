@@ -33,7 +33,7 @@ npx codewithgarry
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 🚀 Professional Profile
 - **Name:** Girish Sharma
