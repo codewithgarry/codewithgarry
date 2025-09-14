@@ -28,11 +28,6 @@ jobs:
           
           # === GIRISH SHARMA'S STUNNING 3D VISUAL GITHUB METRICS ===
           
-          # 📅 3D Isometric contributions calendar - Beautiful 3D cubes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_format: default
-          
           # � 3D Skyline visualization of repositories
           plugin_skyline: yes
           plugin_skyline_year: 2024
@@ -56,14 +51,27 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut, contributor
-
+          plugin_achievements_only: sponsor, maintainer, octonaut
+          
+          # 📊 Advanced activity visualization with charts
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 365
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
+          
+          # 🏆 Notable contributions with enhanced visuals
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit
+          
           # ⭐ Advanced stargazers with beautiful charts
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           
           # 👥 Followers with enhanced avatar display
           plugin_followers: yes
