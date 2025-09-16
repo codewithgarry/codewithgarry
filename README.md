@@ -24,8 +24,6 @@
 ```bash
 npx codewithgarry
 ```
-
-
 ---
 
 <h3><b><samp>Connect with Me</samp></b></h3>
@@ -35,9 +33,6 @@ npx codewithgarry
   </a>
   <a href="https://github.com/codewithgarry" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/codewithgarry" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/codewithgarry/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
