@@ -29,7 +29,9 @@ npx codewithgarry
 
 ---
 
-## 👨‍💻 About Me
+<details>
+<summary>👨‍💻 About Me</summary>
+
 <!-- ANIMATION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
@@ -103,21 +105,25 @@ npx codewithgarry
 </table>
 
 
-
+</details>
 
 ---
 
-## 🏆 Certifications & Professional Achievements
 
-<div align="center">
 
 <!-- CERTIFICATION SHOWCASE CARDS -->
+<details>
+
+<summary>🎓 Industry-Recognized Certifications</summary>
+
+
+<div align="center">
 <table>
 <tr>
 
 
 <td colspan="4" align="center">
-<h3>🎓 Industry-Recognized Certifications</h3>
+
 <a href="https://www.credly.com/users/codewithgarry" target="_blank">
 <img src="https://img.shields.io/badge/Total_Certifications-15+-gold?style=for-the-badge&logo=award&logoColor=white&labelColor=000000"/>
 </a>
@@ -349,6 +355,8 @@ npx codewithgarry
 </td>
 </tr>
 </table>
+</details>
+
 ---
 
 <img src="codewithgarry-metrics.svg" alt="GitHub Metrics for codewithgarry" width="100%"/>
