@@ -36,7 +36,7 @@ npx codewithgarry
 |---|---|---|
 | [**kubeadm-1m2w**](https://github.com/codewithgarry/kubeadm-1m2w) | One-command local Kubernetes lab: Vagrant VMs, kubeadm (1 control plane + 2 workers), Flannel, MetalLB, Traefik and kube-prometheus-stack | Kubernetes · Vagrant · Bash · Helm |
 | [**Google Cloud Challenge Lab Solutions**](https://github.com/codewithgarry/Google-Cloud-Challenge-Lab-Solutions-Latest) | Up-to-date solutions for Google Cloud Arcade / Skills Boost challenge labs | GCP · gcloud · Shell |
-| [**docker**](https://github.com/codewithgarry/docker) | Docker notes and examples | Docker |
+| [**Sales Store Analysis**](https://github.com/codewithgarry/SALES-STORE-PRODUCT-DETAILS-Data-Analytics---Report-) | Exploratory analysis of retail orders: which segments, products and regions drive profit | Python · pandas · seaborn |
 
 ---
 
