@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for visiting. Keeping prod always on.">
+<title>Thanks for visiting</title>
+<defs>
+  <linearGradient id="t" gradientUnits="userSpaceOnUse" x1="300" x2="900" spreadMethod="reflect"><stop offset="0" stop-color="#00e5ff"/><stop offset=".5" stop-color="#ff2bd6"/><stop offset="1" stop-color="#7c4dff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="170" rx="18"/></clipPath>
+  <style>@keyframes w{from{transform:translateX(0)}to{transform:translateX(-300px)}}@media (prefers-reduced-motion: reduce) { * { animation: none !important } }</style>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="170" fill="#05010f"/>
+<path d="M0 110 Q 75 96 150 110 Q 225 124 300 110 Q 375 96 450 110 Q 525 124 600 110 Q 675 96 750 110 Q 825 124 900 110 Q 975 96 1050 110 Q 1125 124 1200 110 Q 1275 96 1350 110 Q 1425 124 1500 110 Q 1575 96 1650 110 Q 1725 124 1800 110 Q 1875 96 1950 110 Q 2025 124 2100 110 Q 2175 96 2250 110 Q 2325 124 2400 110 V170 H0 Z" fill="#7c4dff" fill-opacity="0.35" style="animation: w 7s linear infinite"/>
+<path d="M0 125 Q 75 115 150 125 Q 225 135 300 125 Q 375 115 450 125 Q 525 135 600 125 Q 675 115 750 125 Q 825 135 900 125 Q 975 115 1050 125 Q 1125 135 1200 125 Q 1275 115 1350 125 Q 1425 135 1500 125 Q 1575 115 1650 125 Q 1725 135 1800 125 Q 1875 115 1950 125 Q 2025 135 2100 125 Q 2175 115 2250 125 Q 2325 135 2400 125 V170 H0 Z" fill="#00e5ff" fill-opacity="0.25" style="animation: w 5s linear infinite reverse"/>
+<path d="M0 140 Q 75 132 150 140 Q 225 148 300 140 Q 375 132 450 140 Q 525 148 600 140 Q 675 132 750 140 Q 825 148 900 140 Q 975 132 1050 140 Q 1125 148 1200 140 Q 1275 132 1350 140 Q 1425 148 1500 140 Q 1575 132 1650 140 Q 1725 148 1800 140 Q 1875 132 1950 140 Q 2025 148 2100 140 Q 2175 132 2250 140 Q 2325 148 2400 140 V170 H0 Z" fill="#ff2bd6" fill-opacity="0.3" style="animation: w 9s linear infinite"/>
+</g>
+<text x="600" y="62" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="3" fill="url(#t)">THANKS FOR VISITING</text>
+<text x="600" y="94" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="15" fill="#b9bee8">$ kubectl get status --namespace=prod  →  always-on</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="GitHub activity">
+<title>GitHub activity</title>
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff2bd6"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#00e5ff" stop-opacity=".9"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
+  .sweep{animation:sw 4s linear infinite}@keyframes sw{from{transform:translateX(-200px)}to{transform:translateX(1200px)}}@media (prefers-reduced-motion: reduce) { * { animation: none !important } }</style>
+  <clipPath id="c"><rect width="1200" height="64" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="64" fill="#07031a"/>
+  <rect class="sweep" x="0" y="0" width="160" height="64" fill="#ff2bd6" opacity=".07"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="63" rx="14" fill="none" stroke="url(#g)" stroke-opacity=".55"/>
+<circle class="pulse" cx="32" cy="32" r="6" fill="#ff2bd6" filter="url(#glow)"/>
+<text x="54" y="40" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="18" fill="#ff2bd6" opacity=".85">// 05</text>
+<text x="134" y="41" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="4" fill="url(#g)" filter="url(#glow)">GITHUB ACTIVITY</text>
+<rect x="467" y="31" width="703" height="2" fill="url(#line)"/>
+</svg>

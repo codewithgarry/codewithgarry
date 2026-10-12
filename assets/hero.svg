@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Girish Sharma, Cloud and DevOps Engineer">
+<title>Girish Sharma · Cloud &amp; DevOps Engineer · SRE</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05010f"/><stop offset="0.55" stop-color="#120a3a"/><stop offset="1" stop-color="#03111c"/>
+  </linearGradient>
+  <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="950" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#00e5ff"/><stop offset="0.35" stop-color="#7c4dff"/><stop offset="0.65" stop-color="#ff2bd6"/><stop offset="1" stop-color="#00e5ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;700 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="sun" cx="0.5" cy="1" r="0.6">
+    <stop offset="0" stop-color="#ff2bd6" stop-opacity="0.55"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orbC"><stop offset="0" stop-color="#00e5ff" stop-opacity="0.5"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orbV"><stop offset="0" stop-color="#7c4dff" stop-opacity="0.55"/><stop offset="1" stop-color="#7c4dff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05010f" stop-opacity="1"/><stop offset="0.35" stop-color="#05010f" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="floor"><rect x="0" y="250" width="1200" height="170"/></clipPath>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .grid line { stroke:#7c4dff; stroke-width:1.2; opacity:.55 }
+    .h { animation: move 2.4s linear infinite }
+    @keyframes move { from { transform: translateY(0) } to { transform: translateY(26px) } }
+    .drift1 { animation: d1 14s ease-in-out infinite alternate }
+    .drift2 { animation: d2 18s ease-in-out infinite alternate }
+    @keyframes d1 { to { transform: translate(120px,30px) } }
+    @keyframes d2 { to { transform: translate(-140px,-20px) } }
+    .scan { animation: scan 5s linear infinite }
+    @keyframes scan { from { transform: translateY(-20px) } to { transform: translateY(420px) } }
+    .blink { animation: blink 1s steps(1) infinite }
+    @keyframes blink { 50% { opacity:0 } }
+    .fade { animation: fade 1.6s ease-out both }
+    .fade2 { animation: fade 1.6s .4s ease-out both }
+    .fade3 { animation: fade 1.6s .8s ease-out both }
+    @keyframes fade { from { opacity:0; transform: translateY(12px) } to { opacity:1; transform:none } }
+    .star { fill:#fff; animation: tw 3s ease-in-out infinite alternate }
+    @keyframes tw { from { opacity:.15 } to { opacity:.9 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif }
+    .mono { font-family: SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace }
+  </style>
+</defs>
+<rect width="1200" height="420" fill="url(#bg)"/>
+<circle class="star" cx="663" cy="38" r="1" style="animation-delay:1.95s"/><circle class="star" cx="148" cy="210" r="1.3" style="animation-delay:0.28s"/><circle class="star" cx="1193" cy="14" r="1.3" style="animation-delay:0.64s"/><circle class="star" cx="176" cy="111" r="1" style="animation-delay:0.21s"/><circle class="star" cx="185" cy="141" r="1" style="animation-delay:0.18s"/><circle class="star" cx="1158" cy="31" r="0.8" style="animation-delay:1.89s"/><circle class="star" cx="1193" cy="15" r="1.3" style="animation-delay:1.76s"/><circle class="star" cx="101" cy="56" r="0.8" style="animation-delay:1.67s"/><circle class="star" cx="272" cy="74" r="1" style="animation-delay:0.43s"/><circle class="star" cx="241" cy="146" r="1" style="animation-delay:1.68s"/><circle class="star" cx="370" cy="26" r="1.3" style="animation-delay:1.71s"/><circle class="star" cx="384" cy="95" r="0.8" style="animation-delay:1.64s"/><circle class="star" cx="128" cy="144" r="0.8" style="animation-delay:1.86s"/><circle class="star" cx="1016" cy="174" r="1.3" style="animation-delay:1.28s"/><circle class="star" cx="643" cy="119" r="1.3" style="animation-delay:2.77s"/><circle class="star" cx="740" cy="76" r="0.8" style="animation-delay:2.38s"/><circle class="star" cx="499" cy="20" r="1.3" style="animation-delay:0.90s"/><circle class="star" cx="1013" cy="224" r="1" style="animation-delay:2.19s"/><circle class="star" cx="589" cy="155" r="0.8" style="animation-delay:0.35s"/><circle class="star" cx="856" cy="42" r="1" style="animation-delay:0.46s"/><circle class="star" cx="1001" cy="107" r="0.8" style="animation-delay:2.89s"/><circle class="star" cx="158" cy="195" r="1.3" style="animation-delay:1.72s"/><circle class="star" cx="642" cy="87" r="1.3" style="animation-delay:1.05s"/><circle class="star" cx="1017" cy="148" r="1" style="animation-delay:0.21s"/><circle class="star" cx="191" cy="69" r="1" style="animation-delay:2.09s"/><circle class="star" cx="133" cy="15" r="1.3" style="animation-delay:2.10s"/><circle class="star" cx="1183" cy="174" r="1" style="animation-delay:0.85s"/><circle class="star" cx="790" cy="227" r="1.3" style="animation-delay:1.04s"/><circle class="star" cx="945" cy="90" r="0.8" style="animation-delay:1.83s"/><circle class="star" cx="1011" cy="15" r="0.8" style="animation-delay:2.30s"/><circle class="star" cx="264" cy="189" r="0.8" style="animation-delay:1.19s"/><circle class="star" cx="1016" cy="20" r="0.8" style="animation-delay:1.35s"/><circle class="star" cx="1125" cy="71" r="0.8" style="animation-delay:2.46s"/><circle class="star" cx="1126" cy="71" r="1.3" style="animation-delay:1.25s"/><circle class="star" cx="734" cy="174" r="1" style="animation-delay:2.87s"/><circle class="star" cx="309" cy="21" r="0.8" style="animation-delay:0.45s"/><circle class="star" cx="477" cy="3" r="1" style="animation-delay:2.49s"/><circle class="star" cx="373" cy="67" r="1" style="animation-delay:0.01s"/><circle class="star" cx="858" cy="136" r="1" style="animation-delay:1.83s"/><circle class="star" cx="652" cy="32" r="1.3" style="animation-delay:2.58s"/><circle class="star" cx="110" cy="116" r="1.3" style="animation-delay:2.39s"/><circle class="star" cx="803" cy="101" r="1" style="animation-delay:1.18s"/><circle class="star" cx="986" cy="162" r="1" style="animation-delay:0.19s"/><circle class="star" cx="137" cy="53" r="1" style="animation-delay:0.49s"/><circle class="star" cx="696" cy="153" r="0.8" style="animation-delay:0.31s"/><circle class="star" cx="1160" cy="38" r="1.3" style="animation-delay:0.30s"/><circle class="star" cx="744" cy="157" r="0.8" style="animation-delay:0.21s"/><circle class="star" cx="425" cy="157" r="1" style="animation-delay:0.45s"/><circle class="star" cx="516" cy="88" r="1.3" style="animation-delay:1.09s"/><circle class="star" cx="251" cy="29" r="1" style="animation-delay:2.98s"/><circle class="star" cx="954" cy="122" r="1" style="animation-delay:0.94s"/><circle class="star" cx="295" cy="26" r="1.3" style="animation-delay:1.03s"/><circle class="star" cx="542" cy="122" r="1.3" style="animation-delay:0.48s"/><circle class="star" cx="47" cy="52" r="1.3" style="animation-delay:1.09s"/><circle class="star" cx="1112" cy="6" r="1.3" style="animation-delay:0.89s"/><circle class="star" cx="186" cy="178" r="1" style="animation-delay:1.56s"/><circle class="star" cx="342" cy="91" r="0.8" style="animation-delay:1.60s"/><circle class="star" cx="1029" cy="84" r="1.3" style="animation-delay:0.67s"/><circle class="star" cx="399" cy="206" r="0.8" style="animation-delay:2.45s"/><circle class="star" cx="464" cy="51" r="1.3" style="animation-delay:1.48s"/><circle class="star" cx="59" cy="7" r="1" style="animation-delay:1.42s"/><circle class="star" cx="396" cy="177" r="1.3" style="animation-delay:2.87s"/><circle class="star" cx="915" cy="206" r="1.3" style="animation-delay:2.96s"/><circle class="star" cx="746" cy="20" r="0.8" style="animation-delay:0.31s"/><circle class="star" cx="962" cy="50" r="1" style="animation-delay:0.61s"/><circle class="star" cx="3" cy="122" r="1.3" style="animation-delay:1.03s"/><circle class="star" cx="173" cy="213" r="1.3" style="animation-delay:0.36s"/><circle class="star" cx="795" cy="200" r="1.3" style="animation-delay:2.25s"/><circle class="star" cx="979" cy="227" r="0.8" style="animation-delay:1.30s"/><circle class="star" cx="680" cy="22" r="1.3" style="animation-delay:1.19s"/>
+<g class="drift1"><circle cx="180" cy="120" r="220" fill="url(#orbC)"/></g>
+<g class="drift2"><circle cx="1030" cy="90" r="240" fill="url(#orbV)"/></g>
+<ellipse cx="600" cy="250" rx="520" ry="150" fill="url(#sun)"/>
+<g class="grid" clip-path="url(#floor)"><line x1="456.0" y1="250" x2="-1200" y2="420"/><line x1="464.0" y1="250" x2="-1100" y2="420"/><line x1="472.0" y1="250" x2="-1000" y2="420"/><line x1="480.0" y1="250" x2="-900" y2="420"/><line x1="488.0" y1="250" x2="-800" y2="420"/><line x1="496.0" y1="250" x2="-700" y2="420"/><line x1="504.0" y1="250" x2="-600" y2="420"/><line x1="512.0" y1="250" x2="-500" y2="420"/><line x1="520.0" y1="250" x2="-400" y2="420"/><line x1="528.0" y1="250" x2="-300" y2="420"/><line x1="536.0" y1="250" x2="-200" y2="420"/><line x1="544.0" y1="250" x2="-100" y2="420"/><line x1="552.0" y1="250" x2="0" y2="420"/><line x1="560.0" y1="250" x2="100" y2="420"/><line x1="568.0" y1="250" x2="200" y2="420"/><line x1="576.0" y1="250" x2="300" y2="420"/><line x1="584.0" y1="250" x2="400" y2="420"/><line x1="592.0" y1="250" x2="500" y2="420"/><line x1="600.0" y1="250" x2="600" y2="420"/><line x1="608.0" y1="250" x2="700" y2="420"/><line x1="616.0" y1="250" x2="800" y2="420"/><line x1="624.0" y1="250" x2="900" y2="420"/><line x1="632.0" y1="250" x2="1000" y2="420"/><line x1="640.0" y1="250" x2="1100" y2="420"/><line x1="648.0" y1="250" x2="1200" y2="420"/><line x1="656.0" y1="250" x2="1300" y2="420"/><line x1="664.0" y1="250" x2="1400" y2="420"/><line x1="672.0" y1="250" x2="1500" y2="420"/><line x1="680.0" y1="250" x2="1600" y2="420"/><line x1="688.0" y1="250" x2="1700" y2="420"/><line x1="696.0" y1="250" x2="1800" y2="420"/><line x1="704.0" y1="250" x2="1900" y2="420"/><line x1="712.0" y1="250" x2="2000" y2="420"/><line x1="720.0" y1="250" x2="2100" y2="420"/><line x1="728.0" y1="250" x2="2200" y2="420"/><line x1="736.0" y1="250" x2="2300" y2="420"/><line x1="744.0" y1="250" x2="2400" y2="420"/><g class="h"><line x1="0" y1="254.0" x2="1200" y2="254.0"/><line x1="0" y1="259.3" x2="1200" y2="259.3"/><line x1="0" y1="266.2" x2="1200" y2="266.2"/><line x1="0" y1="275.4" x2="1200" y2="275.4"/><line x1="0" y1="287.6" x2="1200" y2="287.6"/><line x1="0" y1="303.6" x2="1200" y2="303.6"/><line x1="0" y1="324.8" x2="1200" y2="324.8"/><line x1="0" y1="352.7" x2="1200" y2="352.7"/><line x1="0" y1="389.6" x2="1200" y2="389.6"/><line x1="0" y1="438.2" x2="1200" y2="438.2"/></g></g>
+<rect x="0" y="250" width="1200" height="170" fill="url(#floorFade)"/>
+<line x1="0" y1="250" x2="1200" y2="250" stroke="#ff2bd6" stroke-width="2" filter="url(#glow)" opacity=".9"/>
+<g class="scan"><rect x="0" y="0" width="1200" height="2" fill="#00e5ff" opacity=".18"/></g>
+
+<!-- HUD corners -->
+<g stroke="#00e5ff" stroke-width="2" fill="none" opacity=".8">
+  <path d="M24 60 V24 H60"/><path d="M1140 24 H1176 V60"/><path d="M24 360 V396 H60"/><path d="M1140 396 H1176 V360"/>
+</g>
+<text x="40" y="46" class="mono" font-size="13" fill="#00e5ff" opacity=".8">SYS://codewithgarry · REGION: gurgaon-in · STATUS: OPERATIONAL</text>
+<text x="1150" y="46" class="mono" font-size="13" fill="#ff2bd6" opacity=".85" text-anchor="end">● PROD ONLINE</text>
+
+<g>
+  <text x="600" y="140" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="6" fill="url(#name)" filter="url(#glow)">GIRISH SHARMA</text>
+</g>
+<g>
+  <text x="600" y="186" text-anchor="middle" font-size="22" font-weight="600" letter-spacing="5" fill="#e6e9ff">CLOUD &amp; DEVOPS ENGINEER  ·  SRE  ·  RACKSPACE TECHNOLOGY</text>
+</g>
+<g>
+  <text x="600" y="226" text-anchor="middle" class="mono" font-size="18" fill="#00e5ff">&gt; keeping prod always on<tspan class="blink" fill="#ff2bd6">▍</tspan></text>
+</g>
+<g><g transform="translate(112.9,342)"><rect width="59.8" height="32" rx="16" fill="#0b0630" fill-opacity=".75" stroke="#7c4dff"/><text x="29.9" y="21" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#e6e9ff" letter-spacing="1">CKA</text></g><g transform="translate(186.7,342)"><rect width="309.2" height="32" rx="16" fill="#0b0630" fill-opacity=".75" stroke="#7c4dff"/><text x="154.6" y="21" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#e6e9ff" letter-spacing="1">AZURE SOLUTIONS ARCHITECT EXPERT</text></g><g transform="translate(509.9,342)"><rect width="231.8" height="32" rx="16" fill="#0b0630" fill-opacity=".75" stroke="#7c4dff"/><text x="115.9" y="21" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#e6e9ff" letter-spacing="1">GCP PRO CLOUD ARCHITECT</text></g><g transform="translate(755.7,342)"><rect width="197.4" height="32" rx="16" fill="#0b0630" fill-opacity=".75" stroke="#7c4dff"/><text x="98.7" y="21" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#e6e9ff" letter-spacing="1">TERRAFORM ASSOCIATE</text></g><g transform="translate(967.1,342)"><rect width="120.0" height="32" rx="16" fill="#0b0630" fill-opacity=".75" stroke="#7c4dff"/><text x="60.0" y="21" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#e6e9ff" letter-spacing="1">AWS SYSOPS</text></g></g>
+</svg>

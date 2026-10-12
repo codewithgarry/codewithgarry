@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="260" viewBox="0 0 590 260" role="img" aria-label="k8s-observability-sre-kit: SLO burn-rate alerting, tested Prometheus rules, Grafana dashboards, incident runbooks and a sample postmortem.">
+<title>k8s-observability-sre-kit</title>
+<defs>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2bd6"/><stop offset="1" stop-color="#7c4dff"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0830"/><stop offset="1" stop-color="#05010f"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#ff2bd6" stop-opacity=".45"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="c"><rect x="2" y="2" width="586" height="256" rx="20"/></clipPath>
+  <style>
+    .flow{stroke-dasharray:180 1400;animation:f 6s linear infinite}@keyframes f{to{stroke-dashoffset:-1580}}
+    .orb{animation:o 9s ease-in-out infinite alternate}@keyframes o{to{transform:translate(-60px,40px)}}
+    .arrow{animation:a 1.6s ease-in-out infinite}@keyframes a{50%{transform:translateX(5px)}}
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="590" height="260" fill="url(#bg)"/>
+  <g class="orb"><circle cx="530" cy="30" r="170" fill="url(#orb)"/></g>
+  <g stroke="#ffffff" stroke-opacity=".04"><line x1="0" y1="0" x2="0" y2="260"/><line x1="30" y1="0" x2="30" y2="260"/><line x1="60" y1="0" x2="60" y2="260"/><line x1="90" y1="0" x2="90" y2="260"/><line x1="120" y1="0" x2="120" y2="260"/><line x1="150" y1="0" x2="150" y2="260"/><line x1="180" y1="0" x2="180" y2="260"/><line x1="210" y1="0" x2="210" y2="260"/><line x1="240" y1="0" x2="240" y2="260"/><line x1="270" y1="0" x2="270" y2="260"/><line x1="300" y1="0" x2="300" y2="260"/><line x1="330" y1="0" x2="330" y2="260"/><line x1="360" y1="0" x2="360" y2="260"/><line x1="390" y1="0" x2="390" y2="260"/><line x1="420" y1="0" x2="420" y2="260"/><line x1="450" y1="0" x2="450" y2="260"/><line x1="480" y1="0" x2="480" y2="260"/><line x1="510" y1="0" x2="510" y2="260"/><line x1="540" y1="0" x2="540" y2="260"/><line x1="570" y1="0" x2="570" y2="260"/><line x1="0" y1="0" x2="590" y2="0"/><line x1="0" y1="30" x2="590" y2="30"/><line x1="0" y1="60" x2="590" y2="60"/><line x1="0" y1="90" x2="590" y2="90"/><line x1="0" y1="120" x2="590" y2="120"/><line x1="0" y1="150" x2="590" y2="150"/><line x1="0" y1="180" x2="590" y2="180"/><line x1="0" y1="210" x2="590" y2="210"/><line x1="0" y1="240" x2="590" y2="240"/></g>
+</g>
+<rect x="2" y="2" width="586" height="256" rx="20" fill="none" stroke="url(#bd)" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="flow" x="2" y="2" width="586" height="256" rx="20" fill="none" stroke="url(#bd)" stroke-width="3" filter="url(#glow)"/>
+<text x="32" y="44" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#ff2bd6">SRE · OBSERVABILITY</text>
+<text x="32" y="84" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" fill="#ffffff">k8s-observability-sre-kit</text>
+<text y="122" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b9bee8"><tspan x="32" dy="0">SLO burn-rate alerting, tested Prometheus rules, Grafana</tspan><tspan x="32" dy="24">dashboards, incident runbooks and a sample postmortem.</tspan></text>
+<g transform="translate(32,196)"><rect width="108" height="30" rx="15" fill="#ff2bd6" fill-opacity=".12" stroke="#ff2bd6" stroke-opacity=".6"/><text x="54" y="20" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#e6e9ff">Prometheus</text></g><g transform="translate(150,196)"><rect width="83" height="30" rx="15" fill="#ff2bd6" fill-opacity=".12" stroke="#ff2bd6" stroke-opacity=".6"/><text x="42" y="20" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#e6e9ff">Grafana</text></g><g transform="translate(243,196)"><rect width="124" height="30" rx="15" fill="#ff2bd6" fill-opacity=".12" stroke="#ff2bd6" stroke-opacity=".6"/><text x="62" y="20" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#e6e9ff">Alertmanager</text></g><g transform="translate(378,196)"><rect width="59" height="30" rx="15" fill="#ff2bd6" fill-opacity=".12" stroke="#ff2bd6" stroke-opacity=".6"/><text x="29" y="20" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#e6e9ff">SLOs</text></g>
+<g class="arrow"><text x="558" y="45" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace" font-size="14" fill="#7c4dff">view repo →</text></g>
+</svg>
